@@ -1,7 +1,7 @@
 {
     "name": "Microbit_Essentials",
     "version": "0.0.3",
-    "description": "Microbie Essential Packages for Learning.",
+    "description": "Microbit Essential Packages for Learning.",
     "license": "MIT",
     "dependencies": {
         "core": "*",
