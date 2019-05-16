@@ -1,11 +1,11 @@
 {
-    "name": "Microbit_Essentials",
-    "version": "0.0.1",
+    "name": "Microbit Essentials",
+    "version": "0.0.2",
     "description": "Microbie Essential Packages for Learning.",
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "TFTDisplay": "github:kimsunk/Elecfreaks_EF03407_LCDs"
+        "EF03407_LCD": "github:kimsunk/Elecfreaks_EF03407_LCDs"
     },
     "files": [
         "README.md",
